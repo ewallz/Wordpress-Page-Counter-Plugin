@@ -15,6 +15,10 @@ Customizable Display: Tailor the widget to your preferences with adjustable para
 
 Styling Options: The plugin offers multiple style options, allowing users to choose from various layouts to match their website's aesthetic.
 
+Notes: 
+- Accuracy wise, this plugin does not represent actual or accurate pageview the page is getting from a real site visitor. Since it is purely based on site reload, accuracy is not my main goal here.
+- The counter might not working as intended on certain elements such as Theme Custom Sidebar, Custom Posts type, Page Builder elements, etc. As long as the plugin is able to detect the page/post ID, it should be working.
+
 How to Use:
 
 Download the plugin zip and extract it in Wordpress /plugins folder.
