@@ -4,6 +4,8 @@ Simple and lightweight Wordpress website counter plugin that display site visit 
 Wordpress Site Counter Page Visit Plugin
 The WP Simple Page Count plugin is a versatile and lightweight tool designed to effortlessly track and display page view statistics on your WordPress website. It can also be used as Wordpress Site Counter. Whether you're a blogger, business owner, or developer, this plugin provides an easy way to showcase your page hits with customizable shortcodes and a sleek, modern widget.
 
+Demo: https://www.ewallzsolutions.com/wordpress-simple-pageview-sitecounter-plugin/
+
 Features:
 Flexible Shortcodes: Easily integrate page view statistics anywhere on your site using the shortcode like this:
 
