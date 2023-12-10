@@ -1,0 +1,75 @@
+/* Default style */
+.ewpg_widget {
+    font-family: 'Verdana', sans-serif;
+    font-size: 10px;
+    margin-left: 5px; /* Add a small left margin */
+}
+
+.ewpg_label_box {
+    background-color: #000;
+    color: #fff;
+    border-radius: 3px;
+    margin-bottom: 5px;
+    padding: 3px 10px; /* Updated padding */
+    text-transform: uppercase; /* Convert text to uppercase */
+}
+
+.ewpg_count {
+    font-weight: bold;
+}
+
+/* Style 1 */
+.ewpg_widget_style_1 .ewpg_label_box {
+    display: inline-block;
+    margin-right: 5px;
+}
+
+/* Style 2 */
+.ewpg_widget_style_2 .ewpg_label_box {
+    display: block;
+    width: 150px; /* Set box width */
+    margin-bottom: 3px; /* Set bottom margin */
+}
+
+/* Style 3 (Soft shadows) */
+.ewpg_widget_style_3 .ewpg_label_box {
+    display: inline-block;
+    margin-right: 5px;
+    position: relative;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Soft shadows */
+}
+
+/* Style 4 (Transparent with thicker left border) */
+.ewpg_widget_style_4 .ewpg_label_box {
+    display: inline-block;
+    margin-right: 5px;
+    background-color: transparent;
+    border-left: 4px solid #000; /* Thicker left border */
+    border-top: 1px solid #000; /* Top border with color #000 */
+    border-right: 1px solid #000; /* Right border with color #000 */
+    border-bottom: 1px solid #000; /* Bottom border with color #000 */
+    color: #000; /* Text color #000 */
+}
+
+/* Style 5 (Transparent with thicker left border, vertical version) */
+.ewpg_widget_style_5 .ewpg_label_box {
+    display: block;
+    width: 150px; /* Set box width */
+    margin-bottom: 3px; /* Set bottom margin */
+    background-color: transparent;
+    border-left: 4px solid #000; /* Thicker left border */
+    border-top: 1px solid #000; /* Top border with color #000 */
+    border-right: 1px solid #000; /* Right border with color #000 */
+    border-bottom: 1px solid #000; /* Bottom border with color #000 */
+    color: #000; /* Text color #000 */
+}
+/* Updated style for the credit link */
+.ewpg_credit_link {
+    font-size: 8px; /* Updated font size */
+    color: #888; /* Soft grey color */
+    text-decoration: none;
+    margin-top: 0; /* Remove top margin */
+    display: block; /* Make it a block element */
+}
+
+
